@@ -1,4 +1,4 @@
-# Directories and files of Editor
+# Directories and files for editor
 .vscode/*
 !.vscode/extensions.json
 .idea
@@ -10,7 +10,6 @@
 *.sw?
 
 # Logs
-
 logs
 *.log
 npm-debug.log*
